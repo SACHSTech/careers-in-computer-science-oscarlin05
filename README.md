@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8876165&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science
 
+----
+
 ## 1.1 The Basics
 
 ### Job: Video Game Developer 
@@ -45,7 +47,7 @@ A video game developer creates software and programs the logic of a game. Some o
 ### **Entrance Requirements**
 * Ontario secondary school diploma
 * Six 4U/M courses
-* Advanced Functions (MHF4U) (Calculus & Vectors (MCV4U), English (ENG4U)
+* Advanced Functions (MHF4U), (Calculus & Vectors (MCV4U), English (ENG4U)
 * Supplemental Application Required
 * Grade range of mid 90s
 
@@ -84,14 +86,20 @@ It takes about 4 years to complete the co-op program.
 
 ## 1.3 Experiential Learning
 
-### **Ways to Obtain Valuable Experiences**
+### **Ways to Obtain Valuable Experiences**   
 
-Co-op Programs 
 
-Starting Own Projects 
+***Co-op Programs***
 
-Joining Clubs
+Co-op programs offer loads of hands-on experience in person. You gain workplace experience and get to take a glimpse of how life is like being a programmer.
 
+***Starting Own Projects***
+
+Starting your own projects is very beneficial as it forces you to learn by yourself and fix your own mistakes. It makes you disciplined in coding. The amount of projects that you have finshed will look good in your portfolio and may attract companies to interview you for your skill sets.
+
+***Joining Clubs***
+
+Joining clubs that compete competitively can drastically help you improve in the future. Being in clubs mean that you have to take on different roles which helps you develop your leadership and communication skills. You may also learn from other competitors and what they did to succeed to help better improve yourself as a programmer. 
 
 Most well known companies mainly focus on what you have to offer instead of the school you graduated from. So creating your own projects to achieve your own accomplishment is an important step to create your own developer portfolio. Video game developers usually start from being coders and slowly being promoted to work on bigger projects.
 
