@@ -7,7 +7,7 @@
 
 ## **Job: Video Game Developer** 
 
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_become_a_game_developer.jpg">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_become_a_game_developer.jpg" width="500" heigh="300">
 
 ### **Description and Responsibilities**
 
@@ -40,14 +40,14 @@ A video game developer creates software and programs the logic of a game. Some o
 | Average      | $70,000 |
 | High         | $81,000 |
 
-<img src="https://cdn-res.keymedia.com/cms/images/ca/126/0382_637751976980551982.jpg" height="200">
+<img src="https://cdn-res.keymedia.com/cms/images/ca/126/0382_637751976980551982.jpg" width= "350" height="200">
 
 ----
 
 ## 1.2 Standard Education
 
 ### [**University of Toronto Scarborough**](https://www.utsc.utoronto.ca/home/)
-<img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Scarborough_1.png?itok=y7VKEMvo">
+<img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Scarborough_1.png?itok=y7VKEMvo" width="800" height="400">
 
 [*Computer Science Co-op Program*](https://utsc.utoronto.ca/admissions/programs/computer-science)
 
@@ -108,7 +108,7 @@ Starting your own projects is very beneficial as it forces you to learn by yours
 
 Joining clubs that compete competitively can drastically help you improve in the future. Being in clubs mean that you have to take on different roles which helps you develop your leadership and communication skills. You may also learn from other competitors and what they did to succeed to help better improve yourself as a programmer. 
 
-<img src="https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg">
+<img src="https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg" width="450" height="300">
 
 ----
 
@@ -126,13 +126,10 @@ Ubisoft’s 19,000 team members, working across more than 40 locations worldwide
 
 **Additional Skills**
 
-A relevant portfolio is required (2-3 writing samples that showcase your strongest work, and a longer/screenplay sample with ~10 pages or less. See our portfolio tips here)
-Proven experience crafting and developing stories, writing dialogue and various other content from concept to completion within a large production (Ideally larger scale stories and/or key quest or mission content for AAA games)
-Experience working in a writers' room or similar collaborative environment
-Ability to follow an established style guide and rules of usage
-Ability to communicate complex narrative ideas to stakeholders from other disciplines
-Experience with a non-linear narrative structure is preferred
-Strong copy-editing skills are essential
+* A relevant portfolio is required (2-3 writing samples that showcase your strongest work, and a longer/screenplay sample with ~10 pages or less. See our portfolio tips here)
+* Ability to follow an established style guide and rules of usage
+* Experience with a non-linear narrative structure is preferred
+* Strong copy-editing skills are essential
 
 ---
 
@@ -148,16 +145,10 @@ The Intermediate Gameplay Programmer has significant experience working with var
 
 **Additional Skills**
 
-Bachelor’s degree in software engineering, computer science or equivalent
-3+ years of game development experience
-Strong proficiency in C++
-High degree of self-motivation and resourcefulness in all areas of engineering
-Well-versed in design patterns and software engineering principles
-Excellent communication and listening skills, including demonstrated patience and compassion for teammates
-Experience with commonly used development tools such as Jira and Perforce
-Genuine passion for making and playing video games
-Shipped one or more video game titles
-A love of JRPGs
+* 3+ years of game development experience
+* High degree of self-motivation and resourcefulness in all areas of engineering
+* Experience with commonly used development tools such as Jira and Perforce
+* Genuine passion for making and playing video games
 
 ---
 
@@ -173,14 +164,27 @@ Sago Mini is an award-winning publisher of preschool apps and toys worldwide. Su
 
 **Additional Skills**
 
-8+ years developing software professionally.
-A love for making beautiful things with code and comfortable writing code-driven motion.
-Acted as a lead developer on multiple projects.
-You know how to work in a collaborative team environment and navigate the challenges of delivering a great app on time.
-Able to break down complicated tasks into discrete solvable components, prioritize what is important, and provide accurate time estimates.
-Deep understanding of how to use Unity to create mobile apps for iOS or Android.
-Strong understanding of computer science fundamentals.
+* 8+ years developing software professionally.
+* Acted as a lead developer on multiple projects.
+* Deep understanding of how to use Unity to create mobile apps for iOS or Android.
 
 ----
 
 # **Works Cited**
+
+            Works Cited
+
+            Indeed: Job Search Canada, http://indeed.ca. Accessed 12 October 2022.
+            “Computer Science | Admissions & Student Recruitment.” University of Toronto Scarborough |, https://utsc.utoronto.ca/admissions/programs/computer-science. Accessed 12 October 2022.
+
+            Dobson, Sarah. “'Significant' salary increases predicted for 2022.” Canadian HR Reporter, 15 December 2021, https://www.hrreporter.com/focus-areas/compensation-and-benefits/significant-salary-increases-predicted-for-2022/362705. Accessed 12 October 2022.
+
+            Guide, Step. “How to Become a Game Developer in 2022? (Step-by-Step Guide).” Simplilearn, 1 September 2022, https://www.simplilearn.com/how-to-become-a-game-developer-article. Accessed 12 October 2022.
+
+            “Scarborough Campus.” Transition Resource Guide, https://www.transitionresourceguide.ca/research-schools/universities/university-toronto/scarborough-campus. Accessed 12 October 2022.
+
+            Tyler, Dustin. “Video Game Developer: Description, Salary, & Outlook.” Game Design, 22 September 2022, https://www.gamedesigning.org/career/game-developer/. Accessed 12 October 2022.
+
+            “Which first year Computer Science courses are right for me? | Computer and Mathematical Sciences.” UTSC, https://www.utsc.utoronto.ca/cms/which-first-year-computer-science-courses-are-right-me. Accessed 12 October 2022.
+
+            Wilkins, Jessica. “The Best Way to Learn Python – Python Programming Tutorial for Beginners.” freeCodeCamp, 10 August 2021, https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/. Accessed 12 October 2022.
