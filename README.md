@@ -175,6 +175,7 @@ Sago Mini is an award-winning publisher of preschool apps and toys worldwide. Su
             Works Cited
 
             Indeed: Job Search Canada, http://indeed.ca. Accessed 12 October 2022.
+            
             “Computer Science | Admissions & Student Recruitment.” University of Toronto Scarborough |, https://utsc.utoronto.ca/admissions/programs/computer-science. Accessed 12 October 2022.
 
             Dobson, Sarah. “'Significant' salary increases predicted for 2022.” Canadian HR Reporter, 15 December 2021, https://www.hrreporter.com/focus-areas/compensation-and-benefits/significant-salary-increases-predicted-for-2022/362705. Accessed 12 October 2022.
