@@ -101,5 +101,77 @@ Starting your own projects is very beneficial as it forces you to learn by yours
 
 Joining clubs that compete competitively can drastically help you improve in the future. Being in clubs mean that you have to take on different roles which helps you develop your leadership and communication skills. You may also learn from other competitors and what they did to succeed to help better improve yourself as a programmer. 
 
-Most well known companies mainly focus on what you have to offer instead of the school you graduated from. So creating your own projects to achieve your own accomplishment is an important step to create your own developer portfolio. Video game developers usually start from being coders and slowly being promoted to work on bigger projects.
+----
 
+## 1.4 Real Jobs
+
+### **Entry Level Position: Scriptwriter (UBISOFT)** 
+
+**Salary:** $60k - $80k a year 
+
+**Location:** Toronto, Ontario
+
+**Description**
+
+Ubisoft’s 19,000 team members, working across more than 40 locations worldwide, are bound by a shared mission to enrich players’ lives with original and memorable gaming experiences. Their dedication and talent have brought to life many acclaimed franchises such as Assassin’s Creed, Far Cry, Watch Dogs, Just Dance, Rainbow Six, and many more to come. Ubisoft is an equal opportunity employer that believes diverse backgrounds and perspectives are vital in creating worlds where players and teams can thrive and express themselves. If you are excited about solving game-changing challenges, cutting-edge technologies, and pushing the boundaries of entertainment, we invite you to join our journey and help us create the unknown.
+
+**Additional Skills**
+
+A relevant portfolio is required (2-3 writing samples that showcase your strongest work, and a longer/screenplay sample with ~10 pages or less. See our portfolio tips here)
+Proven experience crafting and developing stories, writing dialogue and various other content from concept to completion within a large production (Ideally larger scale stories and/or key quest or mission content for AAA games)
+Experience working in a writers' room or similar collaborative environment
+Ability to follow an established style guide and rules of usage
+Ability to communicate complex narrative ideas to stakeholders from other disciplines
+Experience with a non-linear narrative structure is preferred
+Strong copy-editing skills are essential
+
+---
+
+### **Mid Level Position: Intermediate Gameplay Programmer (Riyo games)** 
+
+**Salary:** $70,000 – $90,000 a year
+
+**Location:** Toronto, Ontario (Remote)
+
+**Description**
+
+The Intermediate Gameplay Programmer has significant experience working with various game systems and ideally has significant Unreal Engine experience. You will be responsible for creating new mechanics and systems and bringing them to a high level of polish. You would be comfortable working closely with designers to create compelling gameplay experiences, implement new content and collaborate closely with a cross-discipline team to pull it all together.
+
+**Additional Skills**
+
+Bachelor’s degree in software engineering, computer science or equivalent
+3+ years of game development experience
+Strong proficiency in C++
+High degree of self-motivation and resourcefulness in all areas of engineering
+Well-versed in design patterns and software engineering principles
+Excellent communication and listening skills, including demonstrated patience and compassion for teammates
+Experience with commonly used development tools such as Jira and Perforce
+Genuine passion for making and playing video games
+Shipped one or more video game titles
+A love of JRPGs
+
+---
+
+### **Senior Level Position: Sr. Unity Game Developer (Sago Mini)** 
+
+**Salary:** $70,000 - $95,000 a year 
+
+**Location:** Toronto, Ontario
+
+**Description**
+
+Sago Mini is an award-winning publisher of preschool apps and toys worldwide. Supported by a team of artists, designers, developers, product managers, thinkers, and doers who are devoted to play. With over 75 million downloads, three subscription services, 40+ apps, and a line of physical toys, Sago Mini brings thoughtful design to life for kids and parents worldwide.
+
+**Additional Skills**
+
+8+ years developing software professionally.
+A love for making beautiful things with code and comfortable writing code-driven motion.
+Acted as a lead developer on multiple projects.
+You know how to work in a collaborative team environment and navigate the challenges of delivering a great app on time.
+Able to break down complicated tasks into discrete solvable components, prioritize what is important, and provide accurate time estimates.
+Deep understanding of how to use Unity to create mobile apps for iOS or Android.
+Strong understanding of computer science fundamentals.
+
+----
+
+# **Works Cited**
