@@ -5,7 +5,9 @@
 
 ## 1.1 The Basics
 
-### Job: Video Game Developer 
+## **Job: Video Game Developer** 
+
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_become_a_game_developer.jpg">
 
 ### **Description and Responsibilities**
 
@@ -16,9 +18,11 @@ A video game developer creates software and programs the logic of a game. Some o
 | C++              | Leadership           |
 | Python           | Communication        |
 | Javascript       | Responsibility       |
-| Use Unity Engine |                      |
-| Use Unreal Engine |                     |
+| Use Unity Engine | Initiative           |
+| Use Unreal Engine | Friendly            |
 
+
+<img src="https://www.smartspate.com/wp-content/uploads/2017/07/Windows-Defender-3-3-640x400.png" height="200">
 
 ### **Required Education**
 
@@ -36,13 +40,16 @@ A video game developer creates software and programs the logic of a game. Some o
 | Average      | $70,000 |
 | High         | $81,000 |
 
+<img src="https://cdn-res.keymedia.com/cms/images/ca/126/0382_637751976980551982.jpg" height="200">
+
 ----
 
 ## 1.2 Standard Education
 
-### **University of Toronto Scarborough**
+### [**University of Toronto Scarborough**](https://www.utsc.utoronto.ca/home/)
+<img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Scarborough_1.png?itok=y7VKEMvo">
 
-*Computer Science Co-op Program*
+[*Computer Science Co-op Program*](https://utsc.utoronto.ca/admissions/programs/computer-science)
 
 ### **Entrance Requirements**
 * Ontario secondary school diploma
@@ -101,11 +108,13 @@ Starting your own projects is very beneficial as it forces you to learn by yours
 
 Joining clubs that compete competitively can drastically help you improve in the future. Being in clubs mean that you have to take on different roles which helps you develop your leadership and communication skills. You may also learn from other competitors and what they did to succeed to help better improve yourself as a programmer. 
 
+<img src="https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg">
+
 ----
 
 ## 1.4 Real Jobs
 
-### **Entry Level Position: Scriptwriter (UBISOFT)** 
+### **Entry Level Position: [Scriptwriter (UBISOFT)](https://ca.indeed.com/jobs?q=game+developer&l=Richmond+Hill%2C+ON&from=searchOnHP&vjk=2dc372722f1d77dc)** 
 
 **Salary:** $60k - $80k a year 
 
@@ -127,7 +136,7 @@ Strong copy-editing skills are essential
 
 ---
 
-### **Mid Level Position: Intermediate Gameplay Programmer (Riyo games)** 
+### **Mid Level Position: [Intermediate Gameplay Programmer (Riyo games)](https://ca.indeed.com/jobs?q=game+developer&l=Richmond+Hill%2C+ON&from=searchOnHP&vjk=26e968b998c520af)** 
 
 **Salary:** $70,000 – $90,000 a year
 
@@ -152,7 +161,7 @@ A love of JRPGs
 
 ---
 
-### **Senior Level Position: Sr. Unity Game Developer (Sago Mini)** 
+### **Senior Level Position: [Sr. Unity Game Developer (Sago Mini)](https://ca.indeed.com/jobs?q=senior+game+developer&l=Richmond+Hill%2C+ON&radius=100&vjk=1be7661493f99a54&advn=9821653951881955)** 
 
 **Salary:** $70,000 - $95,000 a year 
 
